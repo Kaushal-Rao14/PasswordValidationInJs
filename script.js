@@ -1,5 +1,5 @@
-const passwordInput = document.querySelector(".pass-field input");
-const eyeIcon = document.querySelector(".pass-field i");
+const passwordInput = document.querySelector(".password-box input");
+const eyeIcon = document.querySelector(".password-box i");
 const requirementList = document.querySelectorAll(".requirement-list li");
 
 // An array of password requirements with corresponding 
